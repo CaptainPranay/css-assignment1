@@ -1,0 +1,21 @@
+.a
+{
+    text-decoration: line-through;
+    color: darkred;
+}
+.b{
+    background-color: yellow;
+}
+.c
+{
+    text-decoration: underline;
+    color: maroon;
+}
+.unorder
+{
+    color: red;
+}
+.link
+{
+    background-color: yellow;
+}
